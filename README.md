@@ -40,6 +40,26 @@ Key steps:
 
 ---
 
+
+---
+
+## Modeling
+- Regression models for predicting time-to-hire and cost-per-hire  
+- Classification models for recruitment efficiency and acceptance probability  
+- Evaluation using RMSE, MAE, accuracy, precision, recall, F1-score  
+
+---
+
+## Key Deliverables
+- Cleaned and validated dataset  
+- Engineered features for HR efficiency analysis  
+- Exploratory insights on bottlenecks, cost drivers, and source performance  
+- Predictive & classification models  
+- Data-driven recommendations to improve hiring speed, reduce cost, and increase engagement
+
+---
+
+
 ## Repository Structure
 ├── recruitment_data.csv
 ├── HR_Recruitment_Efficiency.ipynb
